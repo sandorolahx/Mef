@@ -1,0 +1,17 @@
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.deps.json
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.dll
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.pdb
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.AssemblyInfoInputs.cache
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.AssemblyInfo.cs
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.dll
+C:\Users\sando\source\repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.pdb
+C:\work\Repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.deps.json
+C:\work\Repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.dll
+C:\work\Repos\Mef\Mef.Abstraction\bin\Debug\netcoreapp2.1\Mef.Abstraction.pdb
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.csprojAssemblyReference.cache
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.AssemblyInfoInputs.cache
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.AssemblyInfo.cs
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.csproj.CoreCompileInputs.cache
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.dll
+C:\work\Repos\Mef\Mef.Abstraction\obj\Debug\netcoreapp2.1\Mef.Abstraction.pdb
